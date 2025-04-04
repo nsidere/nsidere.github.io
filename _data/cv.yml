@@ -2,28 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nicolas Sidere
     - name: Date of Birth
-      value: 14th March 1879
+      value: 04-05-1982
     - name: Languages
-      value: English, German
+      value: FrenchEnglish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University Francois Rabelais Tours, Tours, France
+      year: 2012
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: .
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master Computer Science
+      institution: University of La Rochelle, La Rochelle, France
+      year: 2007
       description:
         - Description 1.
         - Description 2.
