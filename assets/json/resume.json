@@ -190,7 +190,7 @@
   "projects": [
     {
       "name": "ANR JCJC Verydic",
-      "summary": "Test",
+      "summary": "Our project is to enforce the security of authentication solutions by proposing a verification of the integrity of ID Document. To our knowledge, many efforts are focusing on Liveness control, to break out face spoofing by using a photo, a video or DeepFakes techniques to impersonate someone. We propose in this project to focus on the verification of the validity of an image of ID Documents by tackling many issues : Check the integrity of the document, Check the information consistency,	Check the presence of OVD (Optical variable devices) such as Holographic prints or  watermarks",
       "highlights": ["Document Forensics", "Forgery Detection", "Image Processing", "Deep Learning"],
       "startDate": "2022-01-01",
       "endDate": "2026-12-31",
